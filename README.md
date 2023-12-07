@@ -1,7 +1,7 @@
 # ImageGenerator
 
 
-**[ FREE ] APKInstaller Extension** 
+**[ FREE ] ImageGenerator Extension** 
 
 ![Screenshot 2023-12-07 222613](https://github.com/R2Storeapp/ImageGenerator/assets/147613731/b07c4dbe-982a-4560-ad8b-43f74047d7ea)
 
@@ -48,3 +48,11 @@
 > 
 > ****⚙️ Latest Version :** 1.0**
 >
+>[com.r2store.imagegenerator.aix](http://r2store.000.pe/)
+>
+>**Contact me and buy the extension**
+**<p><img
+        src="https://i.postimg.cc/vBjHYYYZ/t.png"
+        title=":telegram:" class="emoji emoji-custom" alt=":telegram:" loading="lazy" width="20" height="20"> <a
+        href="https://t.me/R2_Store1/" target="_blank" rel="noopener nofollow ugc">Telegram</a>**
+
